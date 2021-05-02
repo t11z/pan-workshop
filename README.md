@@ -4,4 +4,4 @@ I am using this sample topology as a reference for my Palo Alto Networks trainin
 
 ## Usage
 
-Fork this repository, login at https://draw.io with your GitHub account and open PAN_WORKSHOP_2021.drawio which you can find in this repository.
+Fork this repository, login at https://draw.io with your GitHub account and open PAN_WORKSHOP_2021.drawio which you can find in this repository. (Or just download the file and open locally.)
